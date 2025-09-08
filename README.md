@@ -1,2 +1,2 @@
-# RLMidTermProject
-Reinforcement Learning Midterm Project
+# SummerProject1
+Reinforcement Learning Project
